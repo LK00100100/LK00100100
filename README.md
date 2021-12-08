@@ -1,5 +1,6 @@
 # 🤔 Hello there 🤔
 personal site: https://lk00100100.github.io/
+
 fun site: https://silverbacksnakes.io
 
 be sure to check out my personal website for:
@@ -11,4 +12,4 @@ be sure to check out my fun website for:
 - muh games
 - muh charts
 
-you can reach me at: lk00100100@gmail.com
+you can reach me at: lk00100100 @ gmail
